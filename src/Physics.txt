@@ -1,0 +1,9 @@
+Acceleration a = FT / m
+
+Velocity v = v0 + a * t
+
+Location z = z0 + v0 * t - 1/2 * a * t * t
+
+Traction FT = u * F
+
+Friction FF = m * g
